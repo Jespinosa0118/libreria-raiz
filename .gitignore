@@ -1,0 +1,24 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos de diseño fuente (pesados, no se publican; se entregan ya exportados en assets/img)
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# Dependencias y artefactos de build (por si el proyecto crece)
+node_modules/
+dist/
+*.log
+
+# Variables de entorno y secretos
+.env
+.env.*
